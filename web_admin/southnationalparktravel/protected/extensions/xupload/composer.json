@@ -1,0 +1,17 @@
+{
+    "name": "Asgaroth/xupload",
+    "description": "jQuery file upload extension for Yii, allows your users to easily upload files to the server"
+    
+    
+     "config": {
+        "vendor-dir": "protected/extensions/vendor"
+    },
+    // custom repository is not needed, you can find it in packagist.org
+    "repositories": [
+        ... //Other repositories
+    ],
+    "require": {
+        ... //Other packages
+        "asgaroth/xupload": "v0.5.0"
+    }
+}
